@@ -19,10 +19,10 @@ You won’t have a lot of instruction, you are free to implement it the way that
 Here the final result:</p>
 
 <h3>Headphones Desktop</h3>
-<img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/01_headphones_desktop@2x.png?raw=true" alt="Headphones Desktop">
+<img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/01_headphones_desktop@2x.png?raw=true" alt="Headphones Desktop" width="550">
 
 <h3>Headphones Tablet</h3>
-<img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/01_headphones_tablet@2x.png?raw=true" alt="Headphones Tablet">
+<img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/01_headphones_tablet@2x.png?raw=true" alt="Headphones Tablet" width="450">
 
 <h3>Headphones Mobile</h3>
-<img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/01_headphones_mobile@2x.png?raw=true" alt="Headphones Mobile">
+<img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/01_headphones_mobile@2x.png?raw=true" alt="Headphones Mobile" width="350">
