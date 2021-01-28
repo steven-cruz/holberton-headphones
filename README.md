@@ -19,10 +19,30 @@ You won’t have a lot of instruction, you are free to implement it the way that
 Here the final result:</p>
 
 <h3>Headphones Desktop</h3>
-<img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/01_headphones_desktop@2x.png?raw=true" alt="Headphones Desktop" width="550">
+<img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/01_headphones_desktop@2x.png?raw=true" alt="Headphones Desktop" width="550"><br>
 
 <h3>Headphones Tablet</h3>
-<img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/01_headphones_tablet@2x.png?raw=true" alt="Headphones Tablet" width="450">
+<img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/01_headphones_tablet@2x.png?raw=true" alt="Headphones Tablet" width="450"><br>
 
 <h3>Headphones Mobile</h3>
-<img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/01_headphones_mobile@2x.png?raw=true" alt="Headphones Mobile" width="350">
+<img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/01_headphones_mobile@2x.png?raw=true" alt="Headphones Mobile" width="350"><br>
+
+<p>This webpage has been designed by <strong><i>Nicolas Philippot,</i></strong> UI/UX designer.</p>
+
+<h3>Requirements</h3>
+<ul>
+    <li>you are not allowed to import external CSS framework (like Bootstrap)</li>
+    <li>you are not to use Javascript</li>
+</ul>
+
+<br><br>
+
+<h3>This project was carried out by:</h3>
+<br>
+<p>
+    <strong>Jhonatan S. Legarda Cruz</strong><br>
+    <a href="https://github.com/steven-cruz"><img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/github.png?raw=true" alt="icono github" width="25"></a>
+    <a href="https://twitter.com/JhonatanLegarda"><img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/twitter.png?raw=true" alt="icono twitter" width="25"></a>
+    <br><br>
+    <i><a href="https://www.holbertonschool.com/co/">Holberton School</a> Student</i>
+</p>
