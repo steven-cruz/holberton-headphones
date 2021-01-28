@@ -19,10 +19,10 @@ You won’t have a lot of instruction, you are free to implement it the way that
 Here the final result:</p>
 
 <h3>Headphones Desktop</h3>
-<img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210128%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210128T192706Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=441dbd65f504cc441125f4fdd6e6424585c86f91298cf9b6059df80eb7cee9e1" alt="Headphones Desktop">
+<img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/01_headphones_desktop@2x.png?raw=true" alt="Headphones Desktop">
 
 <h3>Headphones Tablet</h3>
-<img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210128%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210128T192706Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=441dbd65f504cc441125f4fdd6e6424585c86f91298cf9b6059df80eb7cee9e1" alt="Headphones Tablet">
+<img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/01_headphones_tablet@2x.png?raw=true" alt="Headphones Tablet">
 
 <h3>Headphones Mobile</h3>
-<img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210128%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210128T192706Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=441dbd65f504cc441125f4fdd6e6424585c86f91298cf9b6059df80eb7cee9e1" alt="Headphones Mobile">
+<img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/01_headphones_mobile@2x.png?raw=true" alt="Headphones Mobile">
