@@ -1,4 +1,4 @@
-<h1>Holberton headphones</h1>
+<h1 align="center"><b>Holberton headphones</b></h1>
 
 <h2>0x09. Implement a design from scratch</h2>
 
@@ -37,12 +37,11 @@ Here the final result:</p>
 
 <br><br>
 
-<h3>This project was carried out by:</h3>
-<br>
-<p>
-    <strong>Jhonatan S. Legarda Cruz</strong><br>
-    <a href="https://github.com/steven-cruz"><img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/github.png?raw=true" alt="icono github" width="25"></a>
-    <a href="https://twitter.com/JhonatanLegarda"><img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/twitter.png?raw=true" alt="icono twitter" width="25"></a>
-    <br><br>
-    <i><a href="https://www.holbertonschool.com/co/">Holberton School</a> Student</i>
-</p>
+## Autor ✒️
+<strong>Jhonatan S. Legarda Cruz</strong><br>
+
+* <a href="https://github.com/steven-cruz"><img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/github.png?raw=true" alt="icono github" width="25"></a>
+* <a href="https://twitter.com/JhonatanLegarda"><img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/twitter.png?raw=true" alt="icono twitter" width="25"></a>
+* <a href="https://www.linkedin.com/in/jhonatan-legarda/"><img src="https://github.com/steven-cruz/holberton-headphones/blob/master/images/linkeding.png?raw=true" alt="icono linkedIn" width="25"></a>
+---
+⌨️ con ❤️ por [Jhonatan Legarda](https://twitter.com/JhonatanLegarda) 😊 <i><a href="https://www.holbertonschool.com/co/">Holberton School </a></i>Student
